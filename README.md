@@ -35,7 +35,7 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 
 ### IVX Finance ( 0DTE Options Margin for Alt-coins )
 - **Role**: Chief Technological Officer
-- **Achievements**: Implemented Tradicional Finance Methodologies for calculating options premium's that did not exist in DeFi, such as using Binomial Pricing Model and MonteCarlo Simmulations along with BlackScholes to determine a blend price for options that could expire within 1 to 5 days.
+- **Achievements**: Implemented Tradicional Finance Methodologies for calculating options premium's that did not exist in DeFi, such as using Binomial Pricing Model along with BlackScholes to determine a blend price for options that could expire within 1 to 5 days.
 - **GitHub**: [0DTE Options with Margin](https://github.com/MiguelBits/Options-Margin)
 
 ### Y2K Finance (Derivatives for Pegged Assets) [Website](https://www.y2k.finance/)
