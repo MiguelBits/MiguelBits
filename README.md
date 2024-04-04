@@ -2,7 +2,7 @@
 
 ##  🔍💻🤓  About Me
 
-I'm a Solidity Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data. Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
+I'm a Solidity Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
 
 - 🔭 Currently, I'm focusing on developing smart contracts and protocols that bring real value and security to the DeFi space, and Decentralization.
 - 🌱 I'm on a continuous learning path to deepen my knowledge in blockchain technology and its potential to revolutionize how we interact with the digital and financial worlds.
