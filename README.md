@@ -21,9 +21,16 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 
 ## 🛠️ Projects
 
+### SophiaVerse ( AI metaverse gaming incubated by [@AGIX](https://github.com/singnet) [AGIX TOKEN](https://www.coingecko.com/en/coins/singularitynet) )
+- **Role**: VP for Smart-Contracts and Web3
+- **Achievements**: Still in progress, leading teams of bigger sizes is a challenge
+- **MarketCap** [SOPH TOKEN](https://www.coingecko.com/en/coins/sophiaverse)
+
 ### Seneca Stablecoin ( Cross chain lending of isolated liquid staking assets ) [Website](https://app.senecaprotocol.com/sendashboard/chambers)
 - **Role**: Lead Smart Contract Developer
-- 
+- **Achievements**: Stable coin lending experience, and complementation to my Y2K experience on depegs from value in pegged assets / stablecoins;
+- **GitHub**: [StableCoin Engine V1](https://github.com/MiguelBits/stablecoin-lending-crosschain)
+- **MarketCap** [SEN TOKEN](https://www.coingecko.com/en/coins/seneca)[SEN USD](https://www.coingecko.com/en/coins/seneca-usd) Stable 😇
 
 ### IVX Finance ( 0DTE Options Margin for Alt-coins )
 - **Role**: Chief Technological Officer
@@ -34,16 +41,19 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 - **Role**: Lead Smart Contract Developer
 - **Achievements**: Achieved $10M in Total-Value-Locked (TVL) within the first week of launch. Developed secure, clean, and reusable code that has been adopted by other protocols.
 - **GitHub**: [Y2K Finance Earthquake](https://github.com/Y2K-Finance/Earthquake)
+- **MarketCap** [Y2K TOKEN](https://www.coingecko.com/en/coins/y2k)
 
 ### New Order DAO (Incubator for Web3 Startups) [Website](https://www.neworder.network/)
 - **Role**: Developer & Incubator
 - **Contributions**: Developed on-chain data querying for airdrops, conceptualized and incubated startups, and automated deployment processes.
-- **Achievements**: Success in incubating H20 ( AI Data protocol for Ocean protocol) and Y2k Finance 
+- **Achievements**: Success in incubating H20 ( AI Data protocol for Ocean protocol) and Y2k Finance
+- **MarketCap** [NEWO TOKEN]([https://www.coingecko.com/en/coins/y2k](https://www.coingecko.com/en/coins/new-order))
 
 ### Dopex (Options Protocol)
 - **Role**: Frontend Developer
 - **Contributions**: Integrated smart contracts with the frontend, enhancing user experience through React components.  
 - **Achievements**: First Web3 job, learnt the user flow of Web3
+- **MarketCap** [DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
 
 ## 🌟 Achievements
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients.
