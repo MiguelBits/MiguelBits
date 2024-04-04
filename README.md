@@ -47,7 +47,7 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 ### New Order DAO (Incubator for Web3 Startups) [Website](https://www.neworder.network/)
 - **Role**: Developer & Incubator
 - **Contributions**: Developed on-chain data querying for airdrops, conceptualized and incubated startups, and automated deployment processes.
-- **Achievements**: Success in incubating H20 ( AI Data protocol for Ocean protocol) and Y2k Finance
+- **Achievements**: Learnt how to successfully build a Crypto Startup. By incubating [H20](https://www.psdnfi.ai/), [Y2k Finance](https://www.y2k.finance/), [Sector Finance](https://sector.finance/).
 - **MarketCap** [NEWO TOKEN]([https://www.coingecko.com/en/coins/y2k](https://www.coingecko.com/en/coins/new-order))
 
 ### Dopex (Options Protocol) [Website](https://app.dopex.io/)
@@ -57,10 +57,10 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 - **MarketCap** [DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
 
 ## 🌟 Achievements
-- Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)
-
+- Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
 - Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts.
 - Pioneered in creating a secure infrastructure for DeFi applications, enabling further development and innovation in the space.
+- I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.  
 
 ## 📫 How to Reach Me
 
