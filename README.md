@@ -31,7 +31,7 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 - **Role**: Lead Smart Contract Developer
 - **Achievements**: Stable coin lending experience, and complementation to my Y2K experience on depegs from value in pegged assets / stablecoins;
 - **GitHub**: [StableCoin Engine V1](https://github.com/MiguelBits/stablecoin-lending-crosschain)
-- **MarketCap** [SEN TOKEN](https://www.coingecko.com/en/coins/seneca)[SEN USD](https://www.coingecko.com/en/coins/seneca-usd) Stable 😇
+- **MarketCap** [SEN TOKEN](https://www.coingecko.com/en/coins/seneca) / [SEN USD](https://www.coingecko.com/en/coins/seneca-usd) Stable 😇
 
 ### IVX Finance ( 0DTE Options Margin for Alt-coins )
 - **Role**: Chief Technological Officer
