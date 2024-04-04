@@ -9,7 +9,8 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 - 💬 Ask me about Solidity, smart contract security, or anything related to blockchain.
 - 📫 Reach me at: mcruzvas@gmail.com or follow me on Twitter [@0xMiguelBits](https://twitter.com/0xMiguelBits).
 - 📍 Based in Remote Lisbon, Portugal.
-- ⚡ Fun fact: I've led projects that achieved significant milestones, like a protocol I developed which locked in over $10 million worth of Ethereum in its first week.
+- ⚡ Fun fact: My journey into blockchain was sparked during the GameStop short squeeze in early 2021. Witnessing firsthand how Wall Street could manipulate markets with minimal consequences. I felt the urgent need for change! As a retail investor, the experience left me frustrated with the centralized powers that govern the world. Inspired by the resilience of GameStop investors 💎🤲 , I'm now committed to creating decentralized systems.   
+- 🚀 My goal? To build a financial world that is transparent, censorship-resistant, and truly empowers the individual. Here's to decentralization, where every one of us has a fighting chance.
 
 ## 💻 Technologies & Tools
 
