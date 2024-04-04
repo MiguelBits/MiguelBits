@@ -18,7 +18,7 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 - **Frontend**: React (for DApp integration)
 - **Backend**: Python, C++, Java, JavaScript, PowerShell
 - **Tools**: Grafana, Prometheus, Azure
-- **Others**: Unix Shell Scripting, SQL, IoT Development, RaspberryPi Development
+- **Others**: PowerShell, Unix Shell Scripting, SQL, IoT Development, RaspberryPi Development
 
 ## 🛠️ Projects
 
