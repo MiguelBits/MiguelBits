@@ -59,7 +59,8 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 
 ## 🌟 Achievements
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
-- Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![Stats](image.png)
+- Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/dc6afae0-6bd5-4c2c-a8a9-b018bec64853)
+
 - Pioneered in creating a secure infrastructure for DeFi applications, enabling further development and innovation in the space.
 - I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.  
 
