@@ -1,8 +1,9 @@
-# Hello, I'm Miguel Bits 👋
+# Hello, I'm Miguel Bits 👋 [Portfolio](https://github.com/MiguelBits) [Google me] (https://www.google.com/search?q=miguelbits.eth&sca_esv=cfe58b2277cf997d&sxsrf=ACQVn09XO438vPY69Q3NRAN1V_X0Z1j7vw%3A1712275126488&source=hp&ei=tj4PZtrdG4CWxc8PhreeoAo&iflsig=ANes7DEAAAAAZg9Mxmo54DiRa1wnEyPb9jZ0HtEjhiPl&oq=miguel&gs_lp=Egdnd3Mtd2l6IgZtaWd1ZWwqAggAMgQQIxgnMgQQIxgnMgUQLhiABDIFEAAYgAQyBRAuGIAEMgUQLhiABDIFEC4YgAQyBRAAGIAEMgUQLhiABDIFEC4YgARI7wtQAFivBHAAeACQAQCYAagBoAG4BqoBAzAuNrgBA8gBAPgBAZgCBqACzAbCAgoQIxiABBiKBRgnwgILEAAYgAQYigUYkQLCAgsQLhiABBjHARjRA8ICCBAuGIAEGNQCwgIOEC4YgAQYigUYkQIY1AKYAwCSBwMwLjagB6Zu&sclient=gws-wiz)
+[Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)
 
 ##  🔍💻🤓  About Me
 
-I'm a Solidity Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
+I'm a DeFi Ethereum Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
 
 - 🔭 Currently, I'm focusing on developing smart contracts and protocols that bring real value and security to the DeFi space, and Decentralization.
 - 🌱 I'm on a continuous learning path to deepen my knowledge in blockchain technology and its potential to revolutionize how we interact with the digital and financial worlds.
@@ -58,7 +59,7 @@ I'm a Solidity Developer with a profound dedication to building infrastructure t
 
 ## 🌟 Achievements
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
-- Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts.
+- Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![Stats](image.png)
 - Pioneered in creating a secure infrastructure for DeFi applications, enabling further development and innovation in the space.
 - I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.  
 
