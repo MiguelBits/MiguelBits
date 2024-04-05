@@ -1,7 +1,7 @@
 # Hello, I'm Miguel Bits 👋
 
 ##  🔍💻🤓  About Me
-[Portfolio](https://github.com/MiguelBits) / [Google me!](https://www.google.com/search?q=miguelbits.eth&sca_esv=cfe58b2277cf997d&sxsrf=ACQVn09XO438vPY69Q3NRAN1V_X0Z1j7vw%3A1712275126488&source=hp&ei=tj4PZtrdG4CWxc8PhreeoAo&iflsig=ANes7DEAAAAAZg9Mxmo54DiRa1wnEyPb9jZ0HtEjhiPl&oq=miguel&gs_lp=Egdnd3Mtd2l6IgZtaWd1ZWwqAggAMgQQIxgnMgQQIxgnMgUQLhiABDIFEAAYgAQyBRAuGIAEMgUQLhiABDIFEC4YgAQyBRAAGIAEMgUQLhiABDIFEC4YgARI7wtQAFivBHAAeACQAQCYAagBoAG4BqoBAzAuNrgBA8gBAPgBAZgCBqACzAbCAgoQIxiABBiKBRgnwgILEAAYgAQYigUYkQLCAgsQLhiABBjHARjRA8ICCBAuGIAEGNQCwgIOEC4YgAQYigUYkQIY1AKYAwCSBwMwLjagB6Zu&sclient=gws-wiz) / [Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)
+[Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)
 
 I'm a DeFi Ethereum Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
 
