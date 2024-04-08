@@ -49,7 +49,7 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Role**: Developer & Incubator
 - **Contributions**: Developed on-chain data querying for airdrops, conceptualized and incubated startups, and automated deployment processes.
 - **Achievements**: Learnt how to successfully build a Crypto Startup. By incubating [H20](https://www.psdnfi.ai/), [Y2k Finance](https://www.y2k.finance/), [Sector Finance](https://sector.finance/).
-- **MarketCap** [NEWO TOKEN]([https://www.coingecko.com/en/coins/y2k](https://www.coingecko.com/en/coins/new-order))
+- **MarketCap** [NEWO TOKEN](https://www.coingecko.com/en/coins/new-order)
 
 ### 🐂 Dopex (Options Protocol) [Website](https://app.dopex.io/)
 - **Role**: Frontend Developer
