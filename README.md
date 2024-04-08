@@ -26,13 +26,13 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 ### 🤖  SophiaVerse ( AI metaverse gaming incubated by [@AGIX](https://github.com/singnet) [AGIX TOKEN](https://www.coingecko.com/en/coins/singularitynet) ) [Website](https://www.sophiaverse.ai/)
 - **Role**: VP for Smart-Contracts and Web3 ( Currently here )
 - **Challenges**: Being a VP and coordinating large teams is a complex role that requires a blend of strategic vision, operational expertise, leadership, and interpersonal skills. The challenge lies not only in managing the tasks at hand but in inspiring and leading teams towards a common goal while navigating the complexities of the organization and the external environment, like hired services. But also managing resources and time for development. Often required to make tough decisions that can impact the direction of their teams and the company. These decisions can involve financial investments, project prioritization, or strategic shifts, often under conditions of uncertainty.
-- **MarketCap** [SOPH TOKEN](https://www.coingecko.com/en/coins/sophiaverse)
+- **MarketCap** [$SOPH TOKEN](https://www.coingecko.com/en/coins/sophiaverse)
 
 ### ⚖️ Seneca Stablecoin ( Cross chain lending of isolated liquid staking assets ) [Website](https://app.senecaprotocol.com/sendashboard/chambers)
 - **Role**: Lead Smart Contract Developer
 - **Achievements**: Stable coin lending experience, and complementation to my Y2K experience on depegs from value in pegged assets / stablecoins;
 - **GitHub**: [StableCoin Engine V1](https://github.com/MiguelBits/stablecoin-lending-crosschain)
-- **MarketCap** [SEN TOKEN](https://www.coingecko.com/en/coins/seneca) / [SEN USD](https://www.coingecko.com/en/coins/seneca-usd) Stable 😇
+- **MarketCap** [$SEN TOKEN](https://www.coingecko.com/en/coins/seneca) / [$SEN USD](https://www.coingecko.com/en/coins/seneca-usd) Stable 😇
 
 ### 💱 IVX Finance ( 0DTE Options Margin for Alt-coins )
 - **Role**: Chief Technological Officer
@@ -43,19 +43,19 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Role**: Lead Smart Contract Developer
 - **Achievements**: Achieved $10M in Total-Value-Locked (TVL) within the first week of launch. Developed secure, clean, and reusable code that has been adopted by other protocols.
 - **GitHub**: [Y2K Finance Earthquake](https://github.com/Y2K-Finance/Earthquake)
-- **MarketCap** [Y2K TOKEN](https://www.coingecko.com/en/coins/y2k)
+- **MarketCap** [$Y2K TOKEN](https://www.coingecko.com/en/coins/y2k)
 
 ### 🌎 New Order DAO (Incubator for Web3 Startups) [Website](https://www.neworder.network/)
 - **Role**: Developer & Incubator
 - **Contributions**: Developed on-chain data querying for airdrops, conceptualized and incubated startups, and automated deployment processes.
 - **Achievements**: Learnt how to successfully build a Crypto Startup. By incubating [H20](https://www.psdnfi.ai/), [Y2k Finance](https://www.y2k.finance/), [Sector Finance](https://sector.finance/).
-- **MarketCap** [NEWO TOKEN](https://www.coingecko.com/en/coins/new-order)
+- **MarketCap** [$NEWO TOKEN](https://www.coingecko.com/en/coins/new-order)
 
 ### 🐂 Dopex (Options Protocol) [Website](https://app.dopex.io/)
 - **Role**: Frontend Developer
 - **Contributions**: Integrated smart contracts with the frontend, enhancing user experience through React components.  
 - **Achievements**: First Web3 job, learnt the user flow of Web3
-- **MarketCap** [DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
+- **MarketCap** [$DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
 
 ## 🌟 Achievements
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
