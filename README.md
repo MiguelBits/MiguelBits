@@ -28,14 +28,11 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Challenges**: Being a VP and coordinating large teams is a complex role that requires a blend of strategic vision, operational expertise, leadership, and interpersonal skills. The challenge lies not only in managing the tasks at hand but in inspiring and leading teams towards a common goal while navigating the complexities of the organization and the external environment, like hired services. But also managing resources and time for development. Often required to make tough decisions that can impact the direction of their teams and the company. These decisions can involve financial investments, project prioritization, or strategic shifts, often under conditions of uncertainty.
 - **MarketCap** [$SOPH TOKEN](https://www.coingecko.com/en/coins/sophiaverse)
 
-### ⚖️ Seneca Stablecoin ( Cross chain lending of isolated liquid staking assets ) [Website](https://app.senecaprotocol.com/sendashboard/chambers)
-- **Role**: Lead Smart Contract Developer
+### ⚖️ Stablecoin ( Cross chain lending of isolated liquid staking assets )
 - **Achievements**: Stable coin lending experience, and complementation to my Y2K experience on depegs from value in pegged assets / stablecoins;
 - **GitHub**: [StableCoin Engine V1](https://github.com/MiguelBits/stablecoin-lending-crosschain)
-- **MarketCap** [$SEN TOKEN](https://www.coingecko.com/en/coins/seneca) / [$SEN USD](https://www.coingecko.com/en/coins/seneca-usd) Stable 😇
 
 ### 💱 IVX Finance ( 0DTE Options Margin for Alt-coins )
-- **Role**: Chief Technological Officer
 - **Achievements**: Implemented Tradicional Finance Methodologies for calculating options premium's that did not exist in DeFi, such as using Binomial Pricing Model along with BlackScholes to determine a blend price for options that could expire within 1 to 5 days. Hedging AMM exposure with Future Perpetuals
 - **GitHub**: [0DTE Options with Margin](https://github.com/MiguelBits/Options-Margin)
 
