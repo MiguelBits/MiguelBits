@@ -67,4 +67,3 @@ Feel free to connect with me for collaborations, questions, or simply to exchang
 
 - **Email**: mcruzvas@gmail.com
 - **Twitter**: [@0xMiguelBits](https://twitter.com/0xMiguelBits)
-- **LinkedIn** [Miguel de Vasconcelos](https://www.linkedin.com/in/miguel-de-vasconcelos-6b6a27167/)
