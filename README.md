@@ -49,9 +49,9 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **MarketCap** [$NEWO TOKEN](https://www.coingecko.com/en/coins/new-order)
 
 ### 🐂 Dopex (Options Protocol) [Website](https://app.dopex.io/)
-- **Role**: Junior Frontend Developer
+- **Role**: Helping Frontend Developer
 - **Contributions**: Very brief work experience, as my ambition was to develop smart contracts. 
-Integrated smart contracts with the frontend, enhancing user experience through React components.  
+Integrated smart contracts with the frontend, enhancing user experience through React components. Did not develop the full website, but rather came to help lead developer.
 - **Achievements**: First Web3 job, learnt the user flow of Web3
 - **MarketCap** [$DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
 
