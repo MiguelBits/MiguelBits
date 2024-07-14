@@ -56,6 +56,8 @@ Integrated smart contracts with the frontend, enhancing user experience through 
 - **MarketCap** [$DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
 
 ## 🌟 Achievements
+- Winner of Best DeFi App on top of PancakeSwap 🧇🥞 https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19
+
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
 - Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/dc6afae0-6bd5-4c2c-a8a9-b018bec64853)
 
