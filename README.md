@@ -36,7 +36,7 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Achievements**: Implemented Tradicional Finance Methodologies for calculating options premium's that did not exist in DeFi, such as using Binomial Pricing Model along with BlackScholes to determine a blend price for options that could expire within 1 to 5 days. Hedging AMM exposure with Future Perpetuals
 - **GitHub**: [0DTE Options with Margin](https://github.com/MiguelBits/Options-Margin)
 
-### ⚠️ Y2K Finance (Derivatives for Pegged Assets) [Website](https://www.y2k.finance/)
+### ⚠️ Y2K Finance (Derivatives for Pegged Assets) [Website](https://app.y2k.finance/markets)
 - **Role**: Lead Smart Contract Developer
 - **Achievements**: Achieved $10M in Total-Value-Locked (TVL) within the first week of launch. Developed secure, clean, and reusable code that has been adopted by other protocols.
 - **GitHub**: [Y2K Finance Earthquake](https://github.com/Y2K-Finance/Earthquake)
