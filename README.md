@@ -1,8 +1,9 @@
 # Hello, I'm Miguel Bits 👋
 
 ##  🔍💻🤓  About Me
-Portuguese talk I was invited to talk about AI & Crypto [Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)
-Developer guide Documentations written by me : [GitBook](https://miguel-de-vasconcelos.gitbook.io/blockchain-technologies)
+Portuguese talk I was invited to talk about AI & Crypto [Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)  
+Developer Documentation guides written by me : [GitBook](https://miguel-de-vasconcelos.gitbook.io/blockchain-technologies)  
+  
 I'm a DeFi Ethereum Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
 
 - 🔭 Currently, I'm focusing on developing smart contracts and protocols that bring real value and security to the DeFi space, and Decentralization.
