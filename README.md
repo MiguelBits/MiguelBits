@@ -21,7 +21,7 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Backend**: Python, C++, Java, JavaScript, PowerShell
 - **Tools**: Grafana, Prometheus, Azure
 - **Others**: PowerShell, Unix Shell Scripting, SQL, IoT Development, RaspberryPi Development
-
+  
 ## 🛠️ Web3 Projects
 
   2024 - 2022
@@ -58,37 +58,28 @@ Integrated smart contracts with the frontend, enhancing user experience through 
 - **Achievements**: First Web3 job, learnt the user flow of Web3
 - **MarketCap** [$DOPEX TOKEN](https://www.coingecko.com/en/coins/dopex)
 
-## 🌟 Achievements
-- Eth Global Brussels 2024 -> Winner of Best DeFi App on top of PancakeSwap 🧇🥞 https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19
-
-- Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
-- Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/dc6afae0-6bd5-4c2c-a8a9-b018bec64853)
-
-- Pioneered in creating a secure infrastructure for DeFi applications, enabling further development and innovation in the space.
-- I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.
-
 ## ☁️🌤️☁️ Web 2 Experience  
 
--> Started my programming career in 2018 with a couple retro videogames for learning Python in a fun manner:  
-[SpaceshipShooter](https://github.com/MiguelBits/Galaxy-Shooter) [SuperMario](https://github.com/MiguelBits/Blaze-Head) [Tekken](https://github.com/MiguelBits/Smash) [Snake](https://github.com/MiguelBits/CursedSnake)
--> Had a web2 career while studying for my bachelor's
--> Honored as a FullStack Developer before finishing my studies  
--> Proficient at Cloud and Web2 project flow
+-> Started my programming career in 2018 with a couple retro videogames for learning Python in a fun manner:    
+[SpaceshipShooter](https://github.com/MiguelBits/Galaxy-Shooter) [SuperMario](https://github.com/MiguelBits/Blaze-Head) [Tekken](https://github.com/MiguelBits/Smash) [Snake](https://github.com/MiguelBits/CursedSnake)  
+-> Had a web2 career while studying for my bachelor's  
+-> Honored as a FullStack Developer before finishing my studies    
+-> Proficient at Cloud and Web2 project flow  
 
-### **R&D Applied Engineer** • Nokia • Lisboa • 2020 – 2022
+### ☁️ **R&D Applied Engineer** • Nokia • Lisboa • 2020 – 2022
 - **Automation with Python**: Focused on automating various processes using Python, which included scripting and tool development to enhance efficiency and reduce manual work.
   
 - **Grafana and Prometheus Integration**: Integrated Grafana and Prometheus to monitor application workloads on nodes. This integration provided real-time insights into system performance, allowing for better resource management and quick response to issues.
   
 - **Kubernetes Deployment**: Gained experience in deploying projects using Kubernetes, focusing on container orchestration to ensure scalable, reliable, and efficient deployment of applications across various environments.
 
-### **Student** • Altice • Lisboa • 2020
+### 🧐 **Student** • Altice • Lisboa • 2020
 
 - **Stream Service Development**: Collaborated with senior coworkers to study and contribute to the development of a streaming service for an advertisement platform. This experience provided valuable exposure to the technical and business aspects of building a scalable cloud distributed system
 
-### Everis / NTT Data • Lisboa • 2018
+### 🧪 Everis / NTT Data • Lisboa • 2018
 
-### Cybersecurity & Software Development Experience at NTT Data 
+#### Cybersecurity & Software Development Experience at NTT Data 
 
 - **Monitoring Logs Automation**: Developed and implemented automation tools for monitoring logs, improving efficiency in identifying and responding to security incidents.
   
@@ -122,7 +113,16 @@ The success of my early projects, particularly the MVPs I developed, was instrum
   - **Description**: This project integrates a small ST7735 display with UNIX-based systems, such as those running on Raspberry Pi, to provide a compact and portable visual output solution.
   - **Applications**: Ideal for embedded systems, compact computing setups, and projects where space is limited but visual output is required. Main concept was for smart watches.
   - **Impact**: Contributes to the development of portable and efficient computing solutions, offering greater flexibility in designing and deploying low-power UNIX-based systems.
-  
+
+## 🌟 Achievements
+- Eth Global Brussels 2024 -> Winner of Best DeFi App on top of PancakeSwap 🧇🥞 https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19
+
+- Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
+- Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/dc6afae0-6bd5-4c2c-a8a9-b018bec64853)
+
+- Pioneered in creating a secure infrastructure for DeFi applications, enabling further development and innovation in the space.
+- I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me for collaborations, questions, or simply to exchange ideas about the future of blockchain and decentralization.
