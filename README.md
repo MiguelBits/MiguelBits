@@ -22,8 +22,10 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Tools**: Grafana, Prometheus, Azure
 - **Others**: PowerShell, Unix Shell Scripting, SQL, IoT Development, RaspberryPi Development
 
-## 🛠️ Projects
+## 🛠️ Web3 Projects
 
+  2024 - 2022
+  
 ### 🤖  SophiaVerse ( AI metaverse gaming incubated by [@AGIX](https://github.com/singnet) [AGIX TOKEN](https://www.coingecko.com/en/coins/singularitynet) ) [Website](https://www.sophiaverse.ai/)
 - **Role**: VP for Smart-Contracts and Web3 ( Currently here )
 - **Challenges**: Being a VP and coordinating large teams is a complex role that requires a blend of strategic vision, operational expertise, leadership, and interpersonal skills. The challenge lies not only in managing the tasks at hand but in inspiring and leading teams towards a common goal while navigating the complexities of the organization and the external environment, like hired services. But also managing resources and time for development. Often required to make tough decisions that can impact the direction of their teams and the company. These decisions can involve changing development architecture to minimize the product and get a go-to-market product asap, project prioritization, or strategic shifts, often under conditions of uncertainty.
@@ -63,8 +65,64 @@ Integrated smart contracts with the frontend, enhancing user experience through 
 - Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/dc6afae0-6bd5-4c2c-a8a9-b018bec64853)
 
 - Pioneered in creating a secure infrastructure for DeFi applications, enabling further development and innovation in the space.
-- I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.  
+- I've established a reputation through the high-quality protocols I've developed, earning the follow and respect of renowned developers, esteemed auditors, and DeFi pioneers alike.
 
+## ☁️🌤️☁️ Web 2 Experience  
+
+-> Started my programming career in 2018 with a couple retro videogames for learning Python in a fun manner:  
+[SpaceshipShooter](https://github.com/MiguelBits/Galaxy-Shooter) [SuperMario](https://github.com/MiguelBits/Blaze-Head) [Tekken](https://github.com/MiguelBits/Smash) [Snake](https://github.com/MiguelBits/CursedSnake)
+-> Had a web2 career while studying for my bachelor's
+-> Honored as a FullStack Developer before finishing my studies  
+-> Proficient at Cloud and Web2 project flow
+
+### **R&D Applied Engineer** • Nokia • Lisboa • 2020 – 2022
+- **Automation with Python**: Focused on automating various processes using Python, which included scripting and tool development to enhance efficiency and reduce manual work.
+  
+- **Grafana and Prometheus Integration**: Integrated Grafana and Prometheus to monitor application workloads on nodes. This integration provided real-time insights into system performance, allowing for better resource management and quick response to issues.
+  
+- **Kubernetes Deployment**: Gained experience in deploying projects using Kubernetes, focusing on container orchestration to ensure scalable, reliable, and efficient deployment of applications across various environments.
+
+### **Student** • Altice • Lisboa • 2020
+
+- **Stream Service Development**: Collaborated with senior coworkers to study and contribute to the development of a streaming service for an advertisement platform. This experience provided valuable exposure to the technical and business aspects of building a scalable cloud distributed system
+
+### Everis / NTT Data • Lisboa • 2018
+
+### Cybersecurity & Software Development Experience at NTT Data 
+
+- **Monitoring Logs Automation**: Developed and implemented automation tools for monitoring logs, improving efficiency in identifying and responding to security incidents.
+  
+- **Windows Server + NextGen Firewall Setup**: Gained foundational knowledge in setting up and configuring a Windows Server environment alongside a NextGen Firewall, enhancing the security and management of network infrastructures.
+
+- **Operating System Hardening**: Applied CIS best practices to harden operating systems, improving their resilience against vulnerabilities and reducing the attack surface. Developed automation tools using Python and PowerShell to streamline security tasks and improve operational efficiency.
+
+- **Pentesting Training**: Actively pursuing skills in penetration testing through an extra-curricular college course, focusing on identifying and exploiting security weaknesses to enhance overall system security.
+  
+The success of my early projects, particularly the MVPs I developed, was instrumental in my rapid progression to a consultant role. My ability to quickly learn and apply new concepts led to the creation of several cutting-edge projects that combined AI with cybersecurity, contributing to the innovative culture at NTT Data. Check those out below:
+
+  ## Innovative Projects
+  Throughout my time at NTT Data, I worked on several groundbreaking projects that showcased the integration of AI with cybersecurity and automation. These projects not only demonstrated the practical applications of AI but also highlighted the potential for these technologies to revolutionize how we approach security and customer interactions.
+
+  #### 1. AI Face Recognition of Emotions
+  - **Description**: This project focuses on developing an AI system that can accurately detect and categorize human emotions based on facial expressions. Utilizing simple machine learning algorithms, the system processes images or video feeds to identify emotions such as happiness, sadness, anger, and surprise.
+  - **Applications**: In futuristic smart shops to customize AI customer service
+  - **Impact**: Would enables machines to better understand and respond to human emotions, making interactions more natural and empathetic.
+  
+  #### 2. AI Identity Recognition
+  - **Description**: This project is dedicated to creating a robust AI-based identity recognition system that leverages biometric features to accurately identify individuals.
+  - **Applications**: Security and authentication in border control, secure facility access, and personal device security.
+  - **Impact**: Enhances security by providing a reliable, non-invasive method for identity verification, reducing unauthorized access and protecting sensitive information.
+  
+  #### 3. AI Voice Chatbot (and Amazon's Alexa ChatBot)
+  - **Description**: The Phoenix ChatBot is a NLP chatbot designed for natural language voice interactions. It understands and responds to voice inputs, offering a user-friendly and intuitive conversational interface. Learnt how to build Phoenix from working on skills for Amazon's Alexa in Node.js that enabled bank transactions with voice and skills that could replace mundane tasks in workplaces. All within a web service using Flask.
+  - **Applications**: Customer service automation, virtual assistants, and hands-free interaction scenarios.
+  - **Impact**: Improves user experience with a seamless voice-controlled interface, making technology more accessible and easier to use for a wider audience.
+  
+  #### 4. Smallest Screen for UNIX Computer
+  - **Description**: This project integrates a small ST7735 display with UNIX-based systems, such as those running on Raspberry Pi, to provide a compact and portable visual output solution.
+  - **Applications**: Ideal for embedded systems, compact computing setups, and projects where space is limited but visual output is required. Main concept was for smart watches.
+  - **Impact**: Contributes to the development of portable and efficient computing solutions, offering greater flexibility in designing and deploying low-power UNIX-based systems.
+  
 ## 📫 How to Reach Me
 
 Feel free to connect with me for collaborations, questions, or simply to exchange ideas about the future of blockchain and decentralization.
