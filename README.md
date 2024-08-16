@@ -16,7 +16,7 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 
 ## 💻 Technologies & Tools
 
-- **Blockchain**: ***Solidity, Ethereum, Smart Contracts***
+- **Blockchain**: ***Solidity, Ethereum, Smart Contracts, Foundry***
 - **Frontend**: React (for DApp integration)
 - **Backend**: Python, C++, Java, JavaScript, PowerShell
 - **Tools**: Grafana, Prometheus, Azure
