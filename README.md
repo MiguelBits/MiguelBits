@@ -21,11 +21,14 @@ I'm a DeFi Ethereum Developer with a profound dedication to building infrastruct
 - **Backend**: Python, C++, Java, JavaScript, PowerShell
 - **Tools**: Grafana, Prometheus, Azure
 - **Others**: PowerShell, Unix Shell Scripting, SQL, IoT Development, RaspberryPi Development
-  
+
+## 💹 Risk Management  
+I am currently involved in the process of mastering Modern Portfolio Theory and developing systems to manage my portfolio, to take advantage of risk driven markets such as crypto investment, a novel area of studies and techniques that I am documenting [here](https://app.gitbook.com/invite/UANKt0KMovWMziQZpHas/JuJBV51zIEODhsRRLFxp)
+
 ## 🛠️ Web3 Projects
   
 ### 🤖  SophiaVerse ( AI metaverse gaming incubated by [@AGIX](https://github.com/singnet) [AGIX TOKEN](https://www.coingecko.com/en/coins/singularitynet) ) [Website](https://www.sophiaverse.ai/) • 2024
-- **Role**: VP for Smart-Contracts and Web3 ( Currently here )
+- **Role**: VP for Smart-Contracts and Web3
 - **Challenges**: Being a VP and coordinating large teams is a complex role that requires a blend of strategic vision, operational expertise, leadership, and interpersonal skills. The challenge lies not only in managing the tasks at hand but in inspiring and leading teams towards a common goal while navigating the complexities of the organization and the external environment, like hired services. But also managing resources and time for development. Often required to make tough decisions that can impact the direction of their teams and the company. These decisions can involve changing development architecture to minimize the product and get a go-to-market product asap, project prioritization, or strategic shifts, often under conditions of uncertainty.
 - **MarketCap** [$SOPH TOKEN](https://www.coingecko.com/en/coins/sophiaverse)
 
