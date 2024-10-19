@@ -41,7 +41,7 @@ I am currently involved in the process of mastering Modern Portfolio Theory and 
 - **GitHub**: [0DTE Options with Margin](https://github.com/MiguelBits/Options-Margin)
 
 ### ⚠️ Y2K Finance (Derivatives for Pegged Assets) [Website](https://app.y2k.finance/markets) • 2022 - 2023
-- **Role**: Lead Smart Contract Developer
+- **Role**: Founder and CTO
 - **Achievements**: Achieved $10M in Total-Value-Locked (TVL) within the first week of launch. Developed secure, clean, and reusable code that has been adopted by other protocols.
 - **GitHub**: [Y2K Finance Earthquake](https://github.com/Y2K-Finance/Earthquake)
 - **MarketCap** [$Y2K TOKEN](https://www.coingecko.com/en/coins/y2k)
