@@ -53,7 +53,7 @@ I am currently involved in the process of mastering Modern Portfolio Theory and 
 - **MarketCap** [$NEWO TOKEN](https://www.coingecko.com/en/coins/new-order)
 
 ### 🐂 Dopex (Options Protocol) [Website](https://app.dopex.io/) - 2022
-- **Role**: Helping Frontend Developer
+- **Role**: Frontend Developer
 - **Contributions**: Very brief work experience, as my ambition was to develop smart contracts. 
 Integrated smart contracts with the frontend, enhancing user experience through React components. Did not develop the full website, but rather came to help lead developer.
 - **Achievements**: First Web3 job, learnt the user flow of Web3
