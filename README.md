@@ -47,7 +47,7 @@ I am currently involved in the process of mastering Modern Portfolio Theory and 
 - **MarketCap** [$Y2K TOKEN](https://www.coingecko.com/en/coins/y2k)
 
 ### 🌎 New Order DAO (Incubator for Web3 Startups) [Website](https://www.neworder.network/) • 2022
-- **Role**: Developer & Incubator
+- **Role**: Lead Developer & Incubator
 - **Contributions**: Developed on-chain data querying for airdrops, conceptualized and incubated startups, and automated deployment processes.
 - **Achievements**: Learnt how to successfully build a Crypto Startup. By incubating [H20](https://www.psdnfi.ai/), [Y2k Finance](https://www.y2k.finance/), [Sector Finance](https://sector.finance/).
 - **MarketCap** [$NEWO TOKEN](https://www.coingecko.com/en/coins/new-order)
