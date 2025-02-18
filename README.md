@@ -116,8 +116,8 @@ The success of my early projects, particularly the MVPs I developed, was instrum
   - **Impact**: Contributes to the development of portable and efficient computing solutions, offering greater flexibility in designing and deploying low-power UNIX-based systems.
 
 ## 🌟 Achievements  
-- Devcon Eth Global Bangkok 2024 -> Winner of Best DeFi app on top of LiquityV2 : https://ethglobal.com/showcase/luni-chan-esmqn
-- Eth Global Brussels 2024 -> Winner of Best DeFi App on top of PancakeSwap 🧇🥞 https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19
+- Devcon Eth Global Bangkok 2024 -> Winner of best use of LiquityV2 : https://ethglobal.com/showcase/luni-chan-esmqn
+- Eth Global Brussels 2024 -> Winner of most Innovative App on top of PancakeSwap 🧇🥞 https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19
 
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
 - Developed a protocol independently that attracted significant investments and delivered profits to investors and users. Who trusted more than 10M$ to my contracts. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/dc6afae0-6bd5-4c2c-a8a9-b018bec64853)
