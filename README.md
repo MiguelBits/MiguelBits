@@ -4,7 +4,7 @@
 Portuguese talk I was invited to talk about AI & Crypto [Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)  
 Developer Documentation guides written by me : [GitBook](https://miguel-de-vasconcelos.gitbook.io/blockchain-technologies)  
   
-I'm a DeFi Ethereum Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
+I have been a DeFi Ethereum Developer with a profound dedication to building infrastructure that promotes decentralization and empowers individuals. My journey began in the Web2 space, where I honed my skills in software development, automation, and cybersecurity, working with notable companies like Nokia, Altice Portugal, and Everis/NTT Data.    Transitioning to the world of blockchain, I've become a security enthusiast, protocol designer, and advocate for open, decentralized systems.
 
 - 🔭 Currently, I'm focusing on developing smart contracts and protocols that bring real value and security to the DeFi space, and Decentralization.
 - 🌱 I'm on a continuous learning path to deepen my knowledge in blockchain technology and its potential to revolutionize how we interact with the digital and financial worlds.
@@ -115,7 +115,8 @@ The success of my early projects, particularly the MVPs I developed, was instrum
   - **Applications**: Ideal for embedded systems, compact computing setups, and projects where space is limited but visual output is required. Main concept was for smart watches.
   - **Impact**: Contributes to the development of portable and efficient computing solutions, offering greater flexibility in designing and deploying low-power UNIX-based systems.
 
-## 🌟 Achievements
+## 🌟 Achievements  
+- Devcon Eth Global Bangkok 2024 -> Winner of Best DeFi app on top of LiquityV2 : https://ethglobal.com/showcase/luni-chan-esmqn
 - Eth Global Brussels 2024 -> Winner of Best DeFi App on top of PancakeSwap 🧇🥞 https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19
 
 - Credited **Best FullStack Engineer** in 2021 at Nokia, for a project that monitorized network data for Nokia's clients. ![image](https://github.com/MiguelBits/MiguelBits/assets/15989933/fa04fd07-d31c-4134-9afd-c12f63b5ff0e)  
