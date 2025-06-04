@@ -14,6 +14,11 @@ I have been a DeFi Ethereum Developer with a profound dedication to building inf
 - ⚡ Fun fact: My journey into blockchain was sparked during the GameStop short squeeze in early 2021. Witnessing firsthand how Wall Street could manipulate markets with minimal consequences. I felt the urgent need for change! As a retail investor, the experience left me frustrated with the centralized powers that govern the world. Inspired by the resilience of GameStop investors 💎🤲 , I'm now committed to creating decentralized systems.   
 - 🚀 My goal? To build a financial world that is transparent, censorship-resistant, and truly empowers the individual. Here's to decentralization, where every one of us has a fighting chance.
 
+## Current Development Focus ( Concentrated Liquidity Decentralized Exchanges )
+- **🍊SATSUMA**: Building a DEX with Concentrated Liquidity from scratch, making use of current voting/locking/emission models to achieve a new o(3,3) model of sustainable growth
+- **🦄UNISWAP**: Uniswap V4 - Dev Course Graduated [Certificate](https://opensea.io/item/matic/0x72242ba6d8aaa6021ddeaa614a12653215611e11/82)
+- **🥞PANCAKESWAP**: My project won V4 hackhaton [EthGlobal](https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19)
+
 ## 💻 Technologies & Tools
 
 - **Blockchain**: ***Solidity, Ethereum, Smart Contracts, Foundry***
