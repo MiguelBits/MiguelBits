@@ -1,7 +1,7 @@
 # Hello, I'm Miguel Bits 👋
 LIVE PRODUCTS:  
 [satsuma exchange](https://www.satsuma.exchange/)
-[montecarlo portfolio](https://testnet.montecarlo.trade/strategy)
+[montecarlo trade](https://testnet.montecarlo.trade/)
 ##  🔍💻🤓  About Me
 Portuguese talk I was invited to talk about AI & Crypto [Podcasts](https://www.youtube.com/watch?v=CYAW5hNp4y4&ab_channel=CryptoCafe)  
 Developer Documentation guides written by me : [GitBook](https://miguel-de-vasconcelos.gitbook.io/blockchain-technologies)  
