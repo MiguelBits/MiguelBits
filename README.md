@@ -1,7 +1,7 @@
 # Miguel Cruz Vasconcelos
 
 **Technical Consultant & Partnerships** · partner go-lives, APIs, payments & trading  
-Lisbon, Portugal · open to relocate: Spain / Latin America · Available immediately
+Lisbon, Portugal · Available immediately
 
 [LinkedIn](https://www.linkedin.com/in/migueldvasconcelos98/) · [Email](mailto:mcruzvas@gmail.com) · [X](https://x.com/0xMiguelBits)
 
